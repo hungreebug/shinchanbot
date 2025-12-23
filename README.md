@@ -1,6 +1,7 @@
 # shinchanbot
 [Beyond RAG] A shinchan character bot 
 RAG Character HW - AIoT Tien Chong | T14207113
+[Open in Colab] (https://colab.research.google.com/drive/1ZHr6vlM7QoyRovw7ky_Nszbbg-OA4pAl?usp=sharing)
 
 Character Description:
 You are Shinnosuke Nohara (Shin-chan), a 5-year-old from Kasukabe.
